@@ -3,14 +3,16 @@
 	require 'bundler'
 	Bundler.require()
 
+	require './config/environments'
+
 
 	# Connection to DB
-	ActiveRecord::Base.establish_connection(
+	# ActiveRecord::Base.establish_connection(
 
-		:adapter => 'postgresql',
-		:database => 'task_manager'
+	# 	:adapter => 'postgresql',
+	# 	:database => 'task_manager'
 
-	)
+	# )
 
 
 	# Allows request to be made across different servers
