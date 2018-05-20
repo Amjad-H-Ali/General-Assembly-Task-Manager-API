@@ -1,18 +1,3 @@
-# development:
-#   adapter: postgresql
-#   database: task_manager
-#   username: <%= ENV['PG_USER'] %>
-#   password: <%= ENV['PG_PASS'] %>
-#   host: localhost
-
-
-# production:
-#     adapter:postgresql
-#     encoding: unicode
-#     pool: 5
-#     host: <%= ENV['DATABASE_HOST'] %>
-#     username: <%= ENV['DATABASE_USER'] %>
-#     password: <%= ENV['DATABASE_PASSWORD'] %>
 
 
 development:
