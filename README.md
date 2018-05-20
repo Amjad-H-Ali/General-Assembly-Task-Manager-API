@@ -20,7 +20,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### METHOD: 
 	
-	`_POST_`
+	_`POST`_
 
 * #### DETAILS:	
 
@@ -52,7 +52,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### METHOD: 
 	
-	`_POST_`	
+	_`POST`_	
 
 * ### DETAILS:	 	
 
@@ -83,7 +83,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### METHOD:
 	
-	`_POST_`
+	_`POST`_
 
 * ### DETAILS:
 
