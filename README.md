@@ -1,7 +1,9 @@
 # Task_Manager_Project_3
+#### By Amjad Ali and Marie Trull
+
 Task Manager for GA Student Assignments
 
-## By Amjad Ali and Marie Trull
+
 
 ## Technologies Used
 	
