@@ -226,8 +226,9 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/assignment/:id/check_
-	 _/outcome/:id/check_
+	* _/assignment/:id/check_
+	
+	* _/outcome/:id/check_
 
 * #### METHOD: 
 	
