@@ -16,7 +16,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/register_
+	 _/user/register_
 
 * #### METHOD: 
 	
@@ -49,7 +49,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/login_
+	 _/user/login_
 
 * #### METHOD: 
 	
@@ -80,7 +80,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/logout_
+	 _/user/logout_
 
 * #### METHOD:
 	
