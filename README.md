@@ -1,6 +1,8 @@
 # Task_Manager_Project_3
 Task Manager for GA Student Assignments
 
+## By Amjad Ali and Marie Trull
+
 ## Technologies Used
 	
 * Ruby, Sinatra, PostgreSQL, ActiveRecord, Sessions.
@@ -227,7 +229,7 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 * #### URL:
 
 	* _/assignment/:id/check_
-	
+
 	* _/outcome/:id/check_
 
 * #### METHOD: 
