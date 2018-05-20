@@ -102,8 +102,9 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/assignment_
-	 _/outcome_
+	* _/assignment_
+
+	* _/outcome_
 
 * #### METHOD: 
 	
@@ -125,8 +126,8 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/assignment_
-	 _/outcome_
+	* _/assignment_
+	* _/outcome_
 
 * #### METHOD: 
 	
@@ -149,8 +150,9 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/assignment/:id_
-	 _/outcome/:id_
+	* _/assignment/:id_
+
+	* _/outcome/:id_
 
 * #### METHOD: 
 	
@@ -173,8 +175,9 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/assignment/:id_
-	 _/outcome/:id_
+	* _/assignment/:id_
+	
+	* _/outcome/:id_
 
 * #### METHOD: 
 	
@@ -197,8 +200,9 @@ See corresponding REACT app info at https://github.com/Amjad-H-Ali/Genaral-Assem
 
 * #### URL:
 
-	 _/assignment/:id_
-	 _/outcome/:id_
+	* _/assignment/:id_
+	
+	* _/outcome/:id_
 
 * #### METHOD: 
 	
